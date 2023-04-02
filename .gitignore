@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+filtered_data.csv
+rideshare_kaggle.csv
